@@ -1,0 +1,5 @@
+cd "C:\Users\Supritha\my-webapp-test" 
+call venv\Scripts\activate.bat
+python -s selenium_test.py 
+
+#(pytest)
